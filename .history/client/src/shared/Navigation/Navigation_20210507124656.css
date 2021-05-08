@@ -1,0 +1,19 @@
+.navigation{
+
+    margin:0 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.logo{
+    cursor: pointer;
+}
+
+.navigation li a{
+    color: #fff;
+}
+.nav_list{
+    list-style: none;
+    display: flex;
+}

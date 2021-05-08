@@ -1,0 +1,8 @@
+.posts{
+    width: 100%;
+}
+
+.postlist{
+    list-style: none;
+    width: fit-content;
+}

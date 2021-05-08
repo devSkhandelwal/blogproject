@@ -1,0 +1,9 @@
+.posts{
+    width: 100%;
+    display: flex;
+}
+
+.postlist{
+    list-style: none;
+    width: fit-content;
+}

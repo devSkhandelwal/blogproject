@@ -1,0 +1,12 @@
+.navigation{
+
+    margin:0 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.nav_list{
+    list-style: none;
+    display: flex;
+}

@@ -1,0 +1,21 @@
+li{
+    margin: 0 10px;
+}
+
+.head_dropdown{
+    position: relative;
+}
+
+.dropdown{
+    position: absolute;
+    top: 40px;
+}
+
+.dropdown li {
+    border-bottom: 1px solid white;
+    background-color: bl;
+    
+    width: fit-content;
+    padding: 10px;
+    display: block;
+}

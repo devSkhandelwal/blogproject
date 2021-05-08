@@ -1,0 +1,18 @@
+.posts{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.postlist{
+    padding: 0;
+    width: 50%;
+    list-style: none;
+    text-align: justify;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}

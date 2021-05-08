@@ -1,0 +1,18 @@
+.postitem{
+    margin:50px 0;
+    
+}
+
+.postitem a{
+    text-transform: capitalize;
+}
+
+.postitem .date{
+    font-size: 10px;
+    margin: 10px 0;
+}
+
+.postitem .description{
+    margin: 10px 0;
+    font-size: 24px;
+}

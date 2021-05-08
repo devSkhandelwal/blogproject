@@ -1,0 +1,15 @@
+.form-group input,textarea{
+    outline: none;
+    padding: 6px 10px;
+    font-size: 14px;
+    margin: 5px 0;
+    width: 100%;
+}
+
+.form-group .form-label{
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-weight: 900;
+}

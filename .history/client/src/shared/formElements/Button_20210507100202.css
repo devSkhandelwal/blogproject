@@ -1,0 +1,11 @@
+button{
+    width:100%;
+    padding: 8px 0;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.full{
+    background-color: black;
+    color: white;
+}

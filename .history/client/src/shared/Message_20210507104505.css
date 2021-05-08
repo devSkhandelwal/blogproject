@@ -1,0 +1,17 @@
+.danger{
+    background-color: red;
+    opacity: .4;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.success{
+    background-color:green;
+    opacity: 0.7;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    color: #fff;
+}

@@ -1,0 +1,13 @@
+.form-group input,textarea{
+    outline: none;
+    padding: 2px;
+    font-size: 14px;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.form-group label{
+    padding: 5px;
+    font-size: 20px;
+    margin: 10px 0;
+}

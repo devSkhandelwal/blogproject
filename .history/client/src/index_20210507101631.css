@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.container_form_page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+
+.container{}
+
+.heading{
+  text-transform: uppercase;
+  
+}

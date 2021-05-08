@@ -1,0 +1,6 @@
+.navigation{
+    padding:0 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

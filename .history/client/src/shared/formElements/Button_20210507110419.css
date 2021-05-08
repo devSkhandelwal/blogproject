@@ -1,0 +1,21 @@
+button{
+    width:100%;
+    padding: 12px 0;
+    margin: 20px 0;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.full{
+    background-color: black;
+    color: white;
+    border: none;
+    
+}
+
+.outlined{
+    background-color: transparent ;
+    color: black;
+    border:1px solid black;
+
+}

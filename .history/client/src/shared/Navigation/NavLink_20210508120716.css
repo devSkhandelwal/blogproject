@@ -1,0 +1,25 @@
+li{
+    margin: 0 10px;
+    font-size: 18px;
+    cursor: pointer;
+    
+}
+
+.dropdown_head{
+    position: relative;
+}
+
+.dropdown_head:hover .dropdown{
+    display: block;
+}
+
+.dropdown{
+    /* display: none; */
+    position: absolute;
+    top: 20px;
+}
+
+.dropdown li {
+   list-style: none;
+}
+

@@ -1,0 +1,3 @@
+const binaryConvert = (val) => {
+    while()
+}

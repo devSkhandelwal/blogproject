@@ -1,0 +1,33 @@
+.post{
+    width:100%;
+    margin-top:80px;
+}
+
+.detail{
+    margin: 0 auto;
+    width: 60%;
+    text-align: justify;
+}
+
+.detail .date{
+    font-size: 14px;
+    margin:10px 0;
+}
+
+.detail .description{
+    font-size: 20px;
+}
+
+.detail a{
+    display: block;
+    margin-top: 10px;
+    position: relative;
+}
+
+.detail a::before{
+    position: absolute;
+    content: '';
+    width: 100px;
+    height: 50px;
+    background-color: black;
+}

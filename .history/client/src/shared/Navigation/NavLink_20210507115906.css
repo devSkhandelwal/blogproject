@@ -1,0 +1,16 @@
+li{
+    margin: 0 10px;
+}
+
+.head_dropdown{
+    position: relative;
+}
+
+.dropdown{
+    position: absolute;
+    top: 50px;
+}
+
+.dropdown li {
+    background-color: black;
+}

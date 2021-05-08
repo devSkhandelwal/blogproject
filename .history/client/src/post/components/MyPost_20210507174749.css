@@ -1,0 +1,16 @@
+.myposts{
+    padding: 50px;
+}
+
+.posts_table{
+    width: 100%;
+}
+
+table, th, td {
+    background-color: whitesmoke;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;
+  }

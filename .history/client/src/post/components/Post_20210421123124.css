@@ -1,0 +1,9 @@
+.posts{
+    width: 100%;
+    text-align: center;
+}
+
+.postlist{
+    list-style: none;
+    width: fit-content;
+}

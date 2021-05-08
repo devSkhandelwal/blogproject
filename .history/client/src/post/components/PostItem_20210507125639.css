@@ -1,0 +1,8 @@
+.postitem{
+    margin:50px 0;
+    
+}
+
+.postitem a{
+    text-transform: capitalize;
+}
